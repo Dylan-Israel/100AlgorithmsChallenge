@@ -26,8 +26,8 @@ Here's the rooms matrix with unsuitable rooms marked with 'x':
 Thus, the answer is 1 + 5 + 1 + 2 = 9.
 
 **Hints**
--       push()
--       indexOf()
+- push()
+- indexOf()
 
 **Input/Output**
 
