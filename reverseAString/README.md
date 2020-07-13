@@ -12,3 +12,8 @@ Your result must be a string.
 **Example**
 -   reverseAString('hello') returns 'olleh';
 -   reverseAString('Howdy') returns 'ydwoH';
+
+**Hints**
+-   join()
+-   split()
+-   reverse()
