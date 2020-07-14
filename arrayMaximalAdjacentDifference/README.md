@@ -10,6 +10,9 @@ Given an array of integers, find the maximal absolute difference between any two
 For inputArray = [2, 4, 1, 0], the output should be
 arrayMaximalAdjacentDifference(inputArray) = 3.
 
+For inputArray = [2, 9, 1, 0], the output should be
+arrayMaximalAdjacentDifference(inputArray) = 7.
+
 **Hints**
 -   Math.abs()
 
