@@ -14,6 +14,7 @@ alphabetSubsequence(s) = true.
 **Hints**
 -   size property
 -   charCodeAt()
+-   split()
 
 **Input/Output**
 
