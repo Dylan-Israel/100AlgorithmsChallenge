@@ -9,7 +9,6 @@ Given a rectangular matrix and an integer column, return an array containing the
 For matrix = [[1, 1, 1, 2], 
           [0, 5, 0, 4], 
           [2, 1, 3, 6]]
-
           and column = 2, the output should be
           extractMatrixColumn(matrix, column) = [1, 0, 3].
 
