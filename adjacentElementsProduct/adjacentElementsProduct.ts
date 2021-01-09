@@ -1,4 +1,4 @@
-function adjacentElementsProduct(inputArray: number[]): number {
+export function adjacentElementsProduct(inputArray: number[]): number {
 
 }
 

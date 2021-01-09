@@ -1,5 +1,5 @@
-function domainType(domains: string[]): string[] {
+export function domainType(domains: string[]): string[] {
 
 }
 
-console.log(domainType(["en.wiki.org", "codefights.com", "happy.net", "code.info"]));
+// console.log(domainType(["en.wiki.org", "codefights.com", "happy.net", "code.info"]));

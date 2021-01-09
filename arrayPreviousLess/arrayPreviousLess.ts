@@ -1,5 +1,5 @@
-function arrayPreviousLess(items: number[]): number[] {
+export function arrayPreviousLess(items: number[]): number[] {
 
 }
 
-console.log(arrayPreviousLess([3, 5, 2, 4, 5]));
+// console.log(arrayPreviousLess([3, 5, 2, 4, 5]));

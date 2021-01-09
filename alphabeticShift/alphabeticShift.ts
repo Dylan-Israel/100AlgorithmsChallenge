@@ -1,4 +1,4 @@
-function alphabeticShift(inputString: string): string {
+export function alphabeticShift(inputString: string): string {
 
 }
 
