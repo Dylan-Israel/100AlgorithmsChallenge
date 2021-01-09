@@ -1,6 +1,6 @@
-import { largestNumber } from './largestNumber';
+import { largestOfFour } from './largestOfFour';
 
-xdescribe(largestNumber.name, () => {
+xdescribe(largestOfFour.name, () => {
     it('Test 1', () => {
         // arrange
         const data = [
@@ -11,7 +11,7 @@ xdescribe(largestNumber.name, () => {
         ];
 
         // act
-        const response = largestNumber(data);
+        const response = largestOfFour(data);
 
         // assert 
         expect(response).toEqual([5, 27, 39, 1001]);
@@ -27,7 +27,7 @@ xdescribe(largestNumber.name, () => {
         ];
 
         // act
-        const response = largestNumber(data);
+        const response = largestOfFour(data);
 
         // assert 
         expect(response).toEqual([9, 35, 97, 1000000]);

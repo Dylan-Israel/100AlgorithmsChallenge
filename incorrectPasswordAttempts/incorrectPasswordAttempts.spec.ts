@@ -1,4 +1,4 @@
-import { incorrectPasscodeAttempts } from './incorrectPasscodeAttempts';
+import { incorrectPasscodeAttempts } from './incorrectPasswordAttempts';
 
 xdescribe(incorrectPasscodeAttempts.name, () => {
     it('Test 1', () => {

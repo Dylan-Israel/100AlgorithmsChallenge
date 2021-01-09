@@ -1,4 +1,4 @@
-import { electionsWinners } from './electionsWinners';
+import { electionsWinners } from './electionWinners';
 
 xdescribe(electionsWinners.name, () => {
     it('Test 1', () => {
