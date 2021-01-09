@@ -10,17 +10,17 @@ Given a list of pros and their category preferences, return the list of Pros for
 
 For pros = ["Jack", "Leon", "Maria"] and
 
-preferences = [["Computer repair", "Handyman", "House cleaning"],
+preferences = [ ["Computer repair", "Handyman", "House cleaning"],
                ["Computer lessons", "Computer repair", "Data recovery service"],
                ["Computer lessons", "House cleaning"]]
 
                the output should be
 
-proCategorization(pros, preferences) = [[["Computer lessons"], ["Leon", "Maria"]],
-                                        [["Computer repair"], ["Jack", "Leon"]],
-                                        [["Data recovery service"], ["Leon"]],
-                                        [["Handyman"], ["Jack"]],
-                                        [["House cleaning"], ["Jack", "Maria"]]]
+proCategorization(pros, preferences) = [ [ ["Computer lessons"], ["Leon", "Maria"]],
+                                        [ ["Computer repair"], ["Jack", "Leon"]],
+                                        [ ["Data recovery service"], ["Leon"]],
+                                        [ ["Handyman"], ["Jack"]],
+                                        [ ["House cleaning"], ["Jack", "Maria"]]]
 
 **Hints**
 -   hasOwnProperty()

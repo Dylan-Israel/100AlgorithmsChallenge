@@ -1,9 +1,9 @@
-function sortByLength(inputArray: string[]): string[] {
+export function sortByLength(inputArray: string[]): string[] {
 
 }
 
-console.log(sortByLength(["abc",
-"",
-"aaa",
-"a",
-"zz"]));
+// console.log(sortByLength(["abc",
+// "",
+// "aaa",
+// "a",
+// "zz"]));

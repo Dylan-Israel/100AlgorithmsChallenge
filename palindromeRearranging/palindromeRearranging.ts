@@ -1,5 +1,5 @@
-function palindromeRearranging(inputString: string): boolean {
+export function palindromeRearranging(inputString: string): boolean {
 
 }
 
-console.log(palindromeRearranging('aabb'));
+// console.log(palindromeRearranging('aabb'));
