@@ -1,5 +1,5 @@
-function largestNumber(n: number): number {
- 
+export function largestNumber(n: number): number {
+
 }
 
-console.log(largestNumber(2));
+// console.log(largestNumber(2));

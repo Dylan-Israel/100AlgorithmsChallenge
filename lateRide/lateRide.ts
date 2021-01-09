@@ -1,6 +1,6 @@
-function lateRide(n: number): number {
+export function lateRide(n: number): number {
 
 }
 
-console.log(lateRide(240));
-console.log(lateRide(808));
+// console.log(lateRide(240));
+// console.log(lateRide(808));
