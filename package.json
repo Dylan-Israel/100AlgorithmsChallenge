@@ -4,7 +4,8 @@
   "description": "<a href='https://www.YouTube.com/CodingTutorials360'>Check Out My YouTube Channel </a>",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch",
+    "testFile": "jest -- --testNamePattern --watch"
   },
   "repository": {
     "type": "git",
