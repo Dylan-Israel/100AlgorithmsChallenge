@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
-    "testFile": "jest -- --testNamePattern --watch"
+    "testFile": "jest -- --testNamePattern"
   },
   "repository": {
     "type": "git",

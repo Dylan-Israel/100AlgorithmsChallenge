@@ -19,7 +19,6 @@ xdescribe(add.name, () => {
 });
 
 xdescribe(add2.name, () => {
-    // console.log(add2(2,3));
     it('test 1', () => {
         // arrange
         const data = [1, 2, 3, 4, 5];
