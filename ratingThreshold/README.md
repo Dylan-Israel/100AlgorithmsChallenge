@@ -11,7 +11,7 @@ You're given a list of ratings for some Pros. Find out which Pros should be manu
 
 For threshold = 3.5 and
 
-ratings = [[3, 4],
+ratings = [ [3, 4],
            [3, 3, 3, 4],
            [4]]
 the output should be ratingThreshold(threshold, ratings) = [1].

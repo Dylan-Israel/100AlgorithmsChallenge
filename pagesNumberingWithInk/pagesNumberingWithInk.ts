@@ -1,3 +1,5 @@
-function pagesNumberingWithInk(current: number, numberOfDigits: number): number {
+export function pagesNumberingWithInk(current: number, numberOfDigits: number): number {
 
 }
+
+// console.log(pagesNumberingWithInk('G'));

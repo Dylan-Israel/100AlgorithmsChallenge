@@ -1,4 +1,4 @@
-function addBorder(picture: string[]): string[] {
+export function addBorder(picture: string[]): string[] {
 
 }
 

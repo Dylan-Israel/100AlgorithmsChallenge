@@ -1,4 +1,4 @@
-function alternatingSums(a: number[]): number[] {
+export function alternatingSums(a: number[]): number[] {
 
 }
 

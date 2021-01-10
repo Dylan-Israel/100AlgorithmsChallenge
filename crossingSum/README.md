@@ -7,7 +7,7 @@ Given a rectangular matrix and integers a and b, consider the union of the ath r
 **Example**
 -   For
 
-matrix = [[1, 1, 1, 1], 
+matrix = [ [1, 1, 1, 1], 
           [2, 2, 2, 2], 
           [3, 3, 3, 3]]
 a = 1 and b = 3, the output should be

@@ -1,5 +1,5 @@
-function newNumeralSystem(number: string): string[] {
+export function newNumeralSystem(number: string): string[] {
 
-}   
+}
 
-console.log(newNumeralSystem('G'));
+// console.log(newNumeralSystem('G'));

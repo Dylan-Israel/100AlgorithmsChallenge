@@ -1,5 +1,5 @@
-function longestDigitsPrefix(inputString: string): string {
+export function longestDigitsPrefix(inputString: string): string {
 
 }
 
-console.log(longestDigitsPrefix('123aa1'));
+// console.log(longestDigitsPrefix('123aa1'));

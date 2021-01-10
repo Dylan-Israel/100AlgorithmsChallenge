@@ -1,5 +1,5 @@
-function arrayChange(inputArray: number[]): number {
- 
+export function arrayChange(inputArray: number[]): number {
+
 }
 
-console.log(arrayChange([1, 1, 1]));
+// console.log(arrayChange([1, 1, 1]));

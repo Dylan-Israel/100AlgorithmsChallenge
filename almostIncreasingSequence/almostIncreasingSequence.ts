@@ -1,4 +1,4 @@
-function almostIncreasingSequence(sequence: number[]): boolean {
+export function almostIncreasingSequence(sequence: number[]): boolean {
 
 }
 

@@ -1,4 +1,4 @@
-function allLongestStrings(inputArray: string[]): string[] {
+export function allLongestStrings(inputArray: string[]): string[] {
 
 }
 

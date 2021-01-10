@@ -1,5 +1,5 @@
-function stringsConstruction(a: string, b: string): number {
+export function stringsConstruction(a: string, b: string): number {
 
 }
 
-console.log(stringsConstruction('abc', 'abccba'));
+// console.log(stringsConstruction('abc', 'abccba'));

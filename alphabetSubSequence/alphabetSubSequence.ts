@@ -1,4 +1,4 @@
-function alphabetSubsequence(s: string): boolean {
+export function alphabetSubsequence(s: string): boolean {
 
 }
 

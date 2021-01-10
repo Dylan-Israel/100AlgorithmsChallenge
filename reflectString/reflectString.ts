@@ -1,5 +1,5 @@
-function reflectString(inputString: string): string {
-  
+export function reflectString(inputString: string): string {
+
 }
 
-console.log(reflectString("name"));
+// console.log(reflectString("name"));

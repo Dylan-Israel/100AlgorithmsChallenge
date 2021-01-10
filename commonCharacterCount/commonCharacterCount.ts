@@ -1,5 +1,5 @@
-function commonCharacterCount(s1: string, s2: string): number {
-   
+export function commonCharacterCount(s1: string, s2: string): number {
+
 }
 
-console.log(commonCharacterCount('aabcc', 'adcaa'));
+// console.log(commonCharacterCount('aabcc', 'adcaa'));

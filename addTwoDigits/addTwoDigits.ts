@@ -1,4 +1,4 @@
-function addTwoDigits(n: any): number {
+export function addTwoDigits(n: any): number {
 
 }
 

@@ -1,5 +1,5 @@
-function candies(n: number, m: number): number {
+export function candies(n: number, m: number): number {
 
 }
 
-console.log(candies(3, 10));
+// console.log(candies(3, 10));

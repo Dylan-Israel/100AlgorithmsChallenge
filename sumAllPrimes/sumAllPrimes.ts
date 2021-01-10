@@ -1,6 +1,6 @@
-function sumAllPrimes(num: number): number {
+export function sumAllPrimes(num: number): number {
 
 }
 
-console.log(sumAllPrimes(10));
-console.log(sumAllPrimes(977));
+// console.log(sumAllPrimes(10));
+// console.log(sumAllPrimes(977));

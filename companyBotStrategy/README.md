@@ -10,7 +10,7 @@ For each trainer we collect two pieces of information per task [answerTime, corr
 **Example**
 -   For
 
-    trainingData = [[3, 1],
+    trainingData = [ [3, 1],
                 [6, 1],
                 [4, 1],
                 [5, 1]]
@@ -18,7 +18,7 @@ the output should be companyBotStrategy(trainingData) = 4.5.
 
 -   For
 
-    trainingData = [[4, 1],
+    trainingData = [ [4, 1],
                 [4, -1],
                 [0, 0],
                 [6, 1]]
@@ -28,7 +28,7 @@ Only the 1st and the 4th trainers (1-based) submitted correct solutions, so the 
 
 -   For
 
-    trainingData = [[4, -1],
+    trainingData = [ [4, -1],
                 [0, 0],
                 [5, -1]]
 the output should be companyBotStrategy(trainingData) = 0.0.

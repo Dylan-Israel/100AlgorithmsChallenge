@@ -12,13 +12,13 @@ Knowing the timestamp of the last backup lastBackupTime, your task is to find th
 
 For lastBackupTime = 461620205 and
 
-changes = [[461620203, 1], 
+changes = [ [461620203, 1], 
            [461620204, 2], 
            [461620205, 6],
            [461620206, 5], 
            [461620207, 3], 
            [461620207, 5], 
-           [461620208, 1]]
+           [461620208, 1] ]
 the output should be
 incrementalBackups(lastBackupTime, changes) = [1, 3, 5].
 

@@ -1,5 +1,5 @@
-function differentSymbolsNaive(s: string): number {
- 
+export function differentSymbolsNaive(s: string): number {
+
 }
 
-console.log(differentSymbolsNaive('cabca'));
+// console.log(differentSymbolsNaive('cabca'));

@@ -1,6 +1,6 @@
-function factorializeANumber(num: number): number {
+export function factorializeANumber(num: number): number {
 
 }
 
-console.log(factorializeANumber(5));
-console.log(factorializeANumber(10));
+// console.log(factorializeANumber(5));
+// console.log(factorializeANumber(10));

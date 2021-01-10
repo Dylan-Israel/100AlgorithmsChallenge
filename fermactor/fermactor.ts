@@ -1,5 +1,5 @@
-function fermactor(n: number): number[] {
+export function fermactor(n: number): number[] {
 
 }
 
-console.log(fermactor(15));
+// console.log(fermactor(15));
