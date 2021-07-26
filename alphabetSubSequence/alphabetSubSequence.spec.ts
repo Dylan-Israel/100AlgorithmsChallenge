@@ -1,4 +1,4 @@
-import { alphabetSubsequence } from './alphabetSubsequence';
+import { alphabetSubsequence } from './alphabetSubSequence';
 
 xdescribe(alphabetSubsequence.name, () => {
     it('Test 1', () => {
