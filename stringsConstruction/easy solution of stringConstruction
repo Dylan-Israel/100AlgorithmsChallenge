@@ -1,0 +1,2 @@
+    let arr = b.split('').map( x => a.split('').filter(y => y === x)).flat();
+    return arr.length / a.length // my solution;
